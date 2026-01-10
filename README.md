@@ -1,4 +1,4 @@
-#Project Overview :
+Project Overview :
 
 This project consists of an interactive Excel dashboard designed to analyze and visualize book sales performance.
 The goal is to transform raw sales data into meaningful insights that support business decision-making.
