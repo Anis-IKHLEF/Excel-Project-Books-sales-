@@ -1,12 +1,11 @@
-Books Sales Dashboard (Excel)
-📌 Project Overview
+#Project Overview
 
 This project consists of an interactive Excel dashboard designed to analyze and visualize book sales performance.
 The goal is to transform raw sales data into meaningful insights that support business decision-making.
 
 The project is inspired by common Excel portfolio projects, but the dataset, structure, and design were customized and built independently.
 
-🔧 Tools & Technologies
+#Tools & Technologies
 
 Microsoft Excel
 
@@ -24,7 +23,7 @@ IF
 
 Aggregation formulas
 
-🧹 Data Preparation
+#Data Preparation
 
 Cleaned and structured raw sales data
 
@@ -32,7 +31,7 @@ Standardized dates, prices, categories, and country fields
 
 Organized data into well-structured tables for analysis
 
-📈 Dashboard Features
+#Dashboard Features
 
 The dashboard provides the following insights:
 
@@ -52,7 +51,7 @@ Book category
 
 Customer loyalty status
 
-🎨 Design & Visualization
+#Design & Visualization
 
 Professional, business-oriented dashboard layout
 
@@ -62,7 +61,7 @@ Clear KPIs and well-structured charts
 
 Optimized for usability and clarity
 
-🎯 Key Outcomes
+#Key Outcomes
 
 Demonstrates strong Excel data analysis skills
 
